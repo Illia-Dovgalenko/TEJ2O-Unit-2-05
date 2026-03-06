@@ -8,10 +8,8 @@
 let temperatureKelvin: number
 let temperatureCelsius: number
 
-
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
-
 
 input.onButtonPressed(Button.B, function () {
 
